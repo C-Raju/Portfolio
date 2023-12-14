@@ -10,7 +10,7 @@ const Home = () => {
     <>
     <hr />
      <div className='bg-purple-800 py-60 px-16 sm:flex justify-between items-center '> 
-         <img className='w-28 sm:w-96 sm:h-96 -top-10 relative shadow-2xl shadow-white  ring-2 ring-purple-300 ring-offset-8  bg-white rounded-md ' src="./img/85f229e0-44df-11ee-b168-f77744fe9cd9.jpg" alt="banner" />
+         <img className='w-28 sm:w-96 sm:h-96 -top-10 relative shadow-2xl shadow-white  ring-2 ring-purple-300 ring-offset-8  bg-white rounded-md ' src="./src/img/85f229e0-44df-11ee-b168-f77744fe9cd9.jpg" alt="banner" />
        
         <div className=' sm:p-6 sm:-top-20'>
          <h1 className='my-4 font-bold text-4xl '>Hii, I'm Chandrashekhar Murgan <span className='text-white drop-shadow-md'>Raju.</span></h1> 
